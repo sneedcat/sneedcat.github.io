@@ -1,0 +1,16 @@
+input {
+    background-color: #151515;
+    color: #dfdfdf;
+    border-radius: 5px;
+}
+
+textarea {
+    background-color: #151515;
+    color: #dfdfdf;
+    border-radius: 5px;
+}
+
+canvas {
+    border: 1px solid #dfdfdf;
+    border-radius: 5px;
+}
